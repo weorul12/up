@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Лучший код\bin\Debug\net6.0\Лучший код.exe
+C:\Users\User\Desktop\Лучший код\bin\Debug\net6.0\Лучший код.deps.json
+C:\Users\User\Desktop\Лучший код\bin\Debug\net6.0\Лучший код.runtimeconfig.json
+C:\Users\User\Desktop\Лучший код\bin\Debug\net6.0\Лучший код.dll
+C:\Users\User\Desktop\Лучший код\bin\Debug\net6.0\ref\Лучший код.dll
+C:\Users\User\Desktop\Лучший код\bin\Debug\net6.0\Лучший код.pdb
+C:\Users\User\Desktop\Лучший код\obj\Debug\net6.0\Лучший код.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Лучший код\obj\Debug\net6.0\Лучший код.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Лучший код\obj\Debug\net6.0\Лучший код.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Лучший код\obj\Debug\net6.0\Лучший код.AssemblyInfo.cs
+C:\Users\User\Desktop\Лучший код\obj\Debug\net6.0\Лучший код.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лучший код\obj\Debug\net6.0\Лучший код.dll
+C:\Users\User\Desktop\Лучший код\obj\Debug\net6.0\ref\Лучший код.dll
+C:\Users\User\Desktop\Лучший код\obj\Debug\net6.0\Лучший код.pdb
+C:\Users\User\Desktop\Лучший код\obj\Debug\net6.0\Лучший код.genruntimeconfig.cache
